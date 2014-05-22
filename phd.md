@@ -5,7 +5,7 @@
 -->
 ---
 title: "Habits"
-author: John Doe
+author: Jie Bao
 date: March 22, 2005
 ---
 
