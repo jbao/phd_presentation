@@ -1,6 +1,6 @@
 <!--
 % Habits
-% John Doe
+% Jie Bao
 % March 22, 2005
 -->
 ---
